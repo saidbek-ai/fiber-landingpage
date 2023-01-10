@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fiber-landingpage/static/css/main.3dc202ba.css",
+    "main.js": "/fiber-landingpage/static/js/main.5249adff.js",
+    "static/media/hero-Illustration.png": "/fiber-landingpage/static/media/hero-Illustration.c89141ed18d0943580a0.png",
+    "static/media/Page Image.png": "/fiber-landingpage/static/media/Page Image.5800139831b2f8e0ca60.png",
+    "static/media/User Avatar.svg": "/fiber-landingpage/static/media/User Avatar.0aa7a9099cb005544044d7ef656d0aaf.svg",
+    "static/media/User Avatar 2.svg": "/fiber-landingpage/static/media/User Avatar 2.720a3f1898ca3030edcf60034711a9dc.svg",
+    "static/media/User Avatar 32.svg": "/fiber-landingpage/static/media/User Avatar 32.827af8934d3a13b3d1b809b513f5031a.svg",
+    "static/media/time.svg": "/fiber-landingpage/static/media/time.b86ed61af9c34ab086eae780f066f42e.svg",
+    "static/media/allSizes.svg": "/fiber-landingpage/static/media/allSizes.12ae633b4cade787d85e31bc78b1a160.svg",
+    "index.html": "/fiber-landingpage/index.html",
+    "static/media/code.svg": "/fiber-landingpage/static/media/code.4e85a89ae3f3dc7f54d37fc6f0f3d47d.svg",
+    "static/media/Checkmark.svg": "/fiber-landingpage/static/media/Checkmark.950467d3d091a092b429378f1910b164.svg",
+    "static/media/star.svg": "/fiber-landingpage/static/media/star.2257c8442dfb5df615a4ea3613ae20e4.svg",
+    "main.3dc202ba.css.map": "/fiber-landingpage/static/css/main.3dc202ba.css.map",
+    "main.5249adff.js.map": "/fiber-landingpage/static/js/main.5249adff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dc202ba.css",
+    "static/js/main.5249adff.js"
+  ]
+}
